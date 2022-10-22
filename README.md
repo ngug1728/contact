@@ -1,2 +1,3 @@
 # contact
-A javascript drill app
+
+A javascript drill app focused on actions in an IDE
